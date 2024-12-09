@@ -1,8 +1,7 @@
 # BCG-X-GenAI-Job-Simulation
 
-<p align="center">
-    <img src="![Screenshot 2024-12-10 003029](https://github.com/user-attachments/assets/65c1c6c0-797d-457a-9791-06d19acfb0b6)" alt="BCG X" width="auto" height="100px"></p>
-<p align="justify">
+![Screenshot 2024-12-10 003029](https://github.com/user-attachments/assets/d015b7ee-8b26-4761-976d-ba8da922d110)
+
 Develop a chatbot to assist with financial inquiries with the GenAI team at BCG.
 </p>
 
