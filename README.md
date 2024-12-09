@@ -1,7 +1,7 @@
 # BCG-X-GenAI-Job-Simulation
 
 <p align="center">
-    <img src="Images/bcgx-logo-color-positive-RGB.png" alt="BCG X" width="auto" height="100px"></p>
+    <img src="[Images/bcgx-logo-color-positive-RGB.png](https://www.linkedin.com/posts/ryan-bash-45a45419_forage-activity-7178397330113507330-vCMg)" alt="BCG X" width="auto" height="100px"></p>
 <p align="justify">
 Develop a chatbot to assist with financial inquiries with the GenAI team at BCG.
 </p>
